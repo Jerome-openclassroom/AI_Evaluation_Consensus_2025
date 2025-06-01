@@ -75,6 +75,25 @@ This document serves as an **AI-driven cross-model competency report**, intended
 
 ---
 
+📌 Ethical Recruitment Notice (à inclure en fin de README)
+This portfolio is intended for honest, skill-based recruitment.
+
+Any offer involving:
+
+Unpaid trial periods,
+
+Below-market training formulas disguised as employment,
+
+Or economic gains extracted from my expertise without fair compensation,
+will be declined without further discussion.
+
+I have already experienced unethical practices and will not repeat them. My work has demonstrable value — recognized by multiple AI evaluations — and any professional relationship must start with reciprocal integrity.
+
+✅ Transparent terms
+✅ Fair salary baseline
+✅ Respect for intellectual and scientific contributions
+
+
 ### 🧭 Final remark
 
 📌 **No need to oversell, no reason to underplay — the facts are here.**  
