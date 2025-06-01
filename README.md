@@ -44,24 +44,30 @@ This profile is considered by all four AI systems as:
 * Aligned with post-AGI contexts where cross-domain skillsets and demonstrable project impact become key differentiators.
 
 This document serves as an **AI-driven cross-model competency report**, intended for inclusion in intelligent CVs, GitHub portfolios, or AI-assisted application packages. **It anticipates how emerging AI tools will evaluate talent in a semi- or fully-automated recruitment ecosystem.**
+### 📌 What makes an honest offer?
 
-**📌 What makes an honest offer?**
-**Not every offer needs to be high-paying — but every offer must include a fair, non-negotiable base salary.**
-**Complementary benefits (e.g. housing, meals, setting) are welcome — but they do not replace salary. They support it.**
+**Not every offer needs to be high-paying —**  
+**but every offer must include a fair, non-negotiable base salary.**
 
-**An honest offer includes:**
+**Complementary benefits (e.g. housing, meals, location) are welcome —**  
+**but they do not replace salary. They support it.**
 
-**💬 Clear expectations, responsibilities, and scope of work.**
+**An honest offer includes:**  
+💬 **Clear expectations, responsibilities, and scope of work**  
+🧮 **Fair compensation, aligned with proven technical and scientific contributions**  
+🏠 **Optional benefits, enhancing quality of life — not substituting remuneration**  
+🤝 **Respectful framing, acknowledging the candidate’s level without distortion**
 
-**🧮 Fair compensation, in line with proven technical and scientific contributions.**
+📌 **Do not confuse modesty with undervaluation.**  
+**If the salary is below a realistic threshold for senior STEM/AI roles,**  
+**no benefit package will compensate for that imbalance — and the offer will be declined.**
 
-**🏠 Optional benefits, as part of quality of life — not as substitutes for payment.**
+---
 
-**🤝 Respectful framing, acknowledging the candidate’s level without distortion.**
+### 🧭 Final remark
 
-**📌 Do not confuse modesty with undervaluation.**
-**If the salary is below a realistic threshold for senior STEM/AI roles, no benefits will compensate for that imbalance — and the offer will be declined.**
 📌 **No need to oversell, no reason to underplay — the facts are here.**  
-🧭 Profile AI-benchmarked – no exaggeration needed, no misjudgment accepted.
+🧭 **Profile AI-benchmarked – no exaggeration needed, no misjudgment accepted.**
+
 
 
