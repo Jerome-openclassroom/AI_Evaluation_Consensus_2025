@@ -44,6 +44,23 @@ This profile is considered by all four AI systems as:
 * Aligned with post-AGI contexts where cross-domain skillsets and demonstrable project impact become key differentiators.
 
 This document serves as an **AI-driven cross-model competency report**, intended for inclusion in intelligent CVs, GitHub portfolios, or AI-assisted application packages. **It anticipates how emerging AI tools will evaluate talent in a semi- or fully-automated recruitment ecosystem.**
+
+**📌 What makes an honest offer?**
+**Not every offer needs to be high-paying — but every offer must include a fair, non-negotiable base salary.**
+**Complementary benefits (e.g. housing, meals, setting) are welcome — but they do not replace salary. They support it.**
+
+**An honest offer includes:**
+
+**💬 Clear expectations, responsibilities, and scope of work.**
+
+**🧮 Fair compensation, in line with proven technical and scientific contributions.**
+
+**🏠 Optional benefits, as part of quality of life — not as substitutes for payment.**
+
+**🤝 Respectful framing, acknowledging the candidate’s level without distortion.**
+
+**📌 Do not confuse modesty with undervaluation.**
+**If the salary is below a realistic threshold for senior STEM/AI roles, no benefits will compensate for that imbalance — and the offer will be declined.**
 📌 **No need to oversell, no reason to underplay — the facts are here.**  
 🧭 Profile AI-benchmarked – no exaggeration needed, no misjudgment accepted.
 
