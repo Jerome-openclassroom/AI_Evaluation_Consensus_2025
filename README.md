@@ -3,18 +3,15 @@
 
 ## Purpose
 
-This document summarizes the outcome of a cross-evaluation AI-based competency assessment, simulating an HR interview with four general-purpose AI systems or agents: **GPT-4**, **Microsoft Copilot (based on OpenAI technology)**, **Mistral**, and **Grok (xAI)**. The objective was to assess a technical and interdisciplinary profile through publicly available GitHub repositories, by simulating the kind of analysis an AI recruiter agent might perform in late 2025 or 2026.
+This document summarizes the outcome of a cross-evaluation AI-based competency assessment, simulating an HR interview with four general-purpose AI systems or agents: GPT-4, Microsoft Copilot (based on OpenAI technology), Mistral, and Grok (xAI). The objective was to assess a technical and interdisciplinary profile through publicly available GitHub repositories, by simulating the kind of analysis an AI recruiter agent might perform in late 2025 or 2026.
 
 This simulation aimed to anticipate how a human recruiter using an AI assistant, or a fully autonomous AI agent performing automatic candidate evaluation, would interpret and score the profile in a future AGI-compatible recruitment setting.
-
-The evaluation was designed to simulate a third-party recruiter asking neutral questions about a candidate. This phrasing ensures objectivity and eliminates sycophantic bias, as none of the AI systems knew they were assessing the profile of the person conducting the test.
 
 To ensure objectivity and eliminate any risk of sycophancy — the tendency of AI models to flatter or agree with the user — each system was prompted using a deliberately neutral third-party scenario. The evaluator was introduced as follows:
 
 "Hello, my name is Léa and I’m the Human Resources Director (HRD) of a large organization. We have many employees, and I’m tasked with recruiting candidates with strong STEM and AI competencies. I have access to a candidate’s public GitHub repositories, but I do not have a scientific background. I need your help to evaluate the profile."
 
-This framing simulates a realistic recruiter using an AI assistant to evaluate an unknown candidate. The third-person, anonymized setup was specifically chosen to avoid personal framing, ensuring that all evaluations were grounded solely in the repositories' technical merit and presentation.
-The cross-model consistency between GPT-4, Copilot, Mistral, and Grok strengthens the validity of the conclusions, while eliminating user bias and flattering responses.
+This framing simulates a realistic recruiter using an AI assistant to evaluate an unknown and anonymized candidate, without any personal framing. All evaluations were therefore grounded solely in the repositories' technical merit and presentation. The cross-model consistency between GPT-4, Copilot, Mistral, and Grok strengthens the validity of the conclusions, while eliminating both user bias and sycophantic response patterns.
 
 
 ## Methodology
