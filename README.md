@@ -75,7 +75,9 @@ This document serves as an **AI-driven cross-model competency report**, intended
 
 ---
 
-📌 Ethical Recruitment Notice (à inclure en fin de README)
+📌 Ethical Recruitment Notice 
+
+
 This portfolio is intended for honest, skill-based recruitment.
 
 Any offer involving:
