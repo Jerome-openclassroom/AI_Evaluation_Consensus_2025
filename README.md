@@ -7,6 +7,9 @@ This document summarizes the outcome of a cross-evaluation AI-based competency a
 
 This simulation aimed to anticipate how a human recruiter using an AI assistant, or a fully autonomous AI agent performing automatic candidate evaluation, would interpret and score the profile in a future AGI-compatible recruitment setting.
 
+The evaluation was designed to simulate a third-party recruiter asking neutral questions about an anonymized candidate. This phrasing ensures objectivity and eliminates sycophantic bias, as none of the AI systems knew they were assessing the profile of the person conducting the test.
+
+
 ## Methodology
 
 A set of identical or equivalent prompts was submitted to all four AI systems. These prompts included the following questions:
