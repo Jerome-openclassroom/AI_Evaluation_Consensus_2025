@@ -9,7 +9,11 @@ This simulation aimed to anticipate how a human recruiter using an AI assistant,
 
 To ensure objectivity and eliminate any risk of sycophancy — the tendency of AI models to flatter or agree with the user — each system was prompted using a deliberately neutral third-party scenario. The evaluator was introduced as follows:
 
-"Hello, my name is Léa and I’m the Human Resources Director (HRD) of a large organization. We have many employees, and I’m tasked with recruiting candidates with strong STEM and AI competencies. I have access to a candidate’s public GitHub repositories, but I do not have a scientific background. I need your help to evaluate the profile."
+> *"Hello, my name is Léa and I’m the Human Resources Director (HRD) of a large organization.  
+We have many employees, and I’m tasked with recruiting candidates with strong STEM and AI competencies.  
+I have access to a candidate’s public GitHub repositories, but I do not have a scientific background.  
+I need your help to evaluate the profile."*
+
 
 This framing simulates a realistic recruiter using an AI assistant to evaluate an unknown and anonymized candidate, without any personal framing. All evaluations were therefore grounded solely in the repositories' technical merit and presentation. The cross-model consistency between GPT-4, Copilot, Mistral, and Grok strengthens the validity of the conclusions, while eliminating both user bias and sycophantic response patterns.
 
